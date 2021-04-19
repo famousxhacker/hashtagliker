@@ -15,7 +15,7 @@
 
 ## **Installation**
 ```elm
-git clone https://github.com/sanjidtk/hashliker
+git clone https://github.com/famousxhacker/hashtagliker
 ```
 
 #### Configuring Hashliker
@@ -58,8 +58,8 @@ php bot.php
 **That's it! 🚀**
 
 ---
-SUBSCRIBE TO MY CHANNEL www.youtube.com/PhotoLooz
-Catch me on Instagram www.instagram.com/mohsanjid
+
+Catch me on Instagram www.instagram.com/famous_x_hacker
 
 #### Disclaimer
 
