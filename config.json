@@ -4,9 +4,9 @@
 		"password": "password"
 	},
 	"sleep_delay": 10,
-	"like_depth_per_user": 3,
+	"like_depth_per_user": 1,
 	"proxy": "",
-	"like_depth_per_tag": 4,
+	"like_depth_per_tag": 1,
 	"tags": [
 		"pune",
 		"nashik",
